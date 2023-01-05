@@ -14,9 +14,11 @@
 * [Concepts](concepts/README.md)
   * [What is dStor?](concepts/what-is-dstor.md)
   * [Why dStor?](concepts/why-dstor.md)
-  * [dStor Components](concepts/dstor-components.md)
-  * [Page 3](concepts/page-3.md)
-  * [Page 4](concepts/page-4.md)
+  * [dStor Components](concepts/dstor-components/README.md)
+    * [Directories](concepts/dstor-components/directories.md)
+    * [Folders](concepts/dstor-components/folders.md)
+    * [Files](concepts/dstor-components/files.md)
+    * [Invoices](concepts/dstor-components/invoices.md)
 
 ## Storage Node Operation Guide
 
