@@ -11,6 +11,12 @@
     * [Delete Files](master/using-dstor/delete-files.md)
   * [Start with the API](master/using-dstor-1.md)
 * [Developer Documentation](developer-documentation.md)
+* [Concepts](concepts/README.md)
+  * [What is dStor?](concepts/what-is-dstor.md)
+  * [Why dStor?](concepts/why-dstor.md)
+  * [dStor Components](concepts/dstor-components.md)
+  * [Page 3](concepts/page-3.md)
+  * [Page 4](concepts/page-4.md)
 
 ## Storage Node Operation Guide
 
