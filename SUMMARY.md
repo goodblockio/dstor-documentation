@@ -18,7 +18,7 @@
     * [Directories](concepts/dstor-components/directories.md)
     * [Folders](concepts/dstor-components/folders.md)
     * [Files](concepts/dstor-components/files.md)
-    * [Invoices](concepts/dstor-components/invoices.md)
+    * [Billing](concepts/dstor-components/billing.md)
 * [Paying for dStor](paying-for-dstor/README.md)
   * [Overview](paying-for-dstor/overview.md)
 

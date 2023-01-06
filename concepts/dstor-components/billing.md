@@ -1,10 +1,10 @@
-# Invoices
+# Billing
 
 Invoices are posted monthly, paid automatically with the payment method on file, and viewable in the “Billing” tab of your dashboard.&#x20;
 
 
 
-For more information on Invoicing, see the Invoicing section of the documentation below.
+For more information, see the [Paying for dStor](../../paying-for-dstor/) section of the documentation below.
 
 
 
