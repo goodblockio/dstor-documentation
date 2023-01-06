@@ -19,6 +19,7 @@
     * [Folders](concepts/dstor-components/folders.md)
     * [Files](concepts/dstor-components/files.md)
     * [Invoices](concepts/dstor-components/invoices.md)
+* [Paying for dStor](paying-for-dstor.md)
 
 ## Storage Node Operation Guide
 
