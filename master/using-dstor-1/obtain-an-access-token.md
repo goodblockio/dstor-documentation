@@ -34,7 +34,7 @@ You will need to add the following as headers:
 Below are code snippets to use for the dStor <mark style="color:purple;"></mark> <mark style="color:purple;"></mark><mark style="color:purple;">**Testing**</mark> environment.
 
 {% tabs %}
-{% tab title="Curl" %}
+{% tab title="cURL" %}
 {% code overflow="wrap" lineNumbers="true" %}
 ```shell
 curl --location 'https://api.testnet.dstor.cloud/v1/dev/temp-token' \
