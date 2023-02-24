@@ -11,6 +11,7 @@
     * [Delete Files](master/using-dstor/delete-files.md)
   * [Start with the API](master/using-dstor-1/README.md)
     * [Obtain an API Key](master/using-dstor-1/obtain-an-api-key.md)
+    * [Obtain an Access Token](master/using-dstor-1/obtain-an-access-token.md)
 * [Developer Documentation](developer-documentation.md)
 * [Concepts](concepts/README.md)
   * [What is dStor?](concepts/what-is-dstor.md)
